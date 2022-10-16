@@ -1,0 +1,3 @@
+
+
+def system(command: str) -> None: ...
